@@ -133,7 +133,7 @@ module.exports = {
   },
 
   plugins: [
-    // Plugin to not generate js bundle for manifest entry
+    // Plugin to not generate js bundle for manifest entry 
     new WextManifestWebpackPlugin(),
     // Generate sourcemaps
     new webpack.SourceMapDevToolPlugin({ filename: false }),
