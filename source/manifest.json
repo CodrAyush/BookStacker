@@ -10,7 +10,7 @@
 		"128": "assets/icons/favicon-128.png"
 	},
 	"description": "Kairy is a simple tool for saving and organizing your reading list, bookmarks and tasks.",
-	"homepage_url": "https://github.com/prajjwalkapoor/kairy",
+	"homepage_url": "",
 	"short_name": "Kairy",
 	"permissions": ["activeTab", "storage", "contextMenus"],
 	"__chrome__host_permissions": ["http://*/*", "https://*/*"],
